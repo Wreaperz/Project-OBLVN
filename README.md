@@ -25,6 +25,8 @@ Mini-Documentary: https://www.youtube.com/watch?v=tfb6aEUMC04
 Process and Structure: https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting#Complete_takeover
 
 # What I Have
+Note: This project uses an Arduino Leonardo for mouse movement >> https://www.amazon.com/dp/B008A36R2Y?psc=1&ref=ppx_yo2ov_dt_b_product_details
+
 I started out this project by breaking down the game into several "levels" of complexity, based on these general guidelines from a fairly-recent video about ML and computer-vision: https://www.youtube.com/watch?v=UvoyMGxN89Y
 
 The TL;DR version is that Level 1, 2, and 3 are short-, medium-, and long-term performance. Short-term consists of reacting to enemies, shooting, moving, etc. Level 2 consists of map navigation and ammo/inventory management. Finally, Level 3 consists of long-term strategy, teamwork, and player coordination.
