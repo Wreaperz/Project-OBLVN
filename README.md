@@ -1,6 +1,22 @@
 # Project OBLVN
 Project OBLVN is an artificial intelligence project aimed at the game VALORANT. The ultimate goal is to create a self-sustaining AI agent that can play the game VALORANT at a competitive level.
 
+# Settings
+Monitor: 15.6" Monitor (Asus Strix 15) 1080p (1920x1080)
+
+Enemy Outlines: Red (default)
+
+DPI: 800
+
+Sens: 1.06
+
+Scoped: 1
+
+ADS: 1
+
+Important: The project is designed to be as dynamic as possible, but certain settings may need to be edited to suit individual needs.
+
+
 # The Inspiration
 I've always been into automation, but I've really enjoyed learning about Artificial Intelligence (AI) and Machine Learning (ML). The ORIGINAL inspiration for this project was actually OpenAI's "OpenAI Five" team that beat the top DOTA players in the world, several years ago. The idea that a machine can out-perform a human in a game that is so complex is probably what really piqued my interest. Bots have existed for a long time, and even AI has learned how to play Pong, etc. But... to be able to compete against the BEST of the best in a game with hundreds of thousands of minute variables, alongside the psychology of the game (baits, pushes, fakes, etc.)... that's a whole new level.
 
