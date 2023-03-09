@@ -1,6 +1,8 @@
 # Project OBLVN
 Project OBLVN is an artificial intelligence project aimed at the game VALORANT. The ultimate goal is to create a self-sustaining AI agent that can play the game VALORANT at a competitive level.
 
+I understand a lot of people are working on similar projects. If you find this repo and want to contribute, reach out to superspamacct7@gmail.com!
+
 # Settings
 Monitor: 15.6" Monitor (Asus Strix 15) 1080p (1920x1080)
 
